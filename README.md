@@ -2,8 +2,27 @@
 PARROT: Interactive Privacy-Aware Internet of Things Application Design Tool
 LICENSE: Creative Commons Attribution-NonCommercial 4.0 International License
 
-
+Objective:
 The objective of this tool is to simplify the creation of privacy-aware IoT applications for developers. It provides a simple interface that allows dragging and dropping of objects, referred to as "nodes," from a diverse palette containing sensors, clouds, and other relevant components.
+
+Related papers to the current tool:
+1) [Demo paper] Nada Alhirabi, Omer Rana, and Charith Perera. (2022). Demo Abstract:
+PARROT: Privacy by Design Tool for Internet of Things. Proceedings - 7th ACM/IEEE
+Conference on Internet of Things Design and Implementation, IoTDI 2022, pages
+107–108. https://doi.org/10.1109/IoTDI54339.2022.00023 Demo: https://www.youtube.com/watch?v=EFiujRyOjZs
+   
+2) [Poster paper] Nada Alhirabi, Stephanie Beaumont, Omer Rana, and Charith Perera.
+(2022). Privacy-Patterns for IoT Application Developers. In Adjunct Proceedings of
+the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+and the 2022 ACM International Symposium on Wearable Computers, UbiComp/ISWC
+’22 Adjunct, page 7–9, New York, NY, USA. Association for Computing Machinery.
+https://doi.org/10.1145/3544793.3560333
+
+4) [Journal paper] Nada Alhirabi, Stephanie Beaumont, Jose Tomas Llanos, Dulani Mee-
+deniya, Omer Rana, and Charith Perera. 2023. PARROT: Interactive Privacy-Aware In-
+ternet of Things Application Design Tool. Proc. ACM Interact. Mob. Wearable Ubiqui-
+tous Technol. 7, 1, Article 1 (March 2023), 37 pages. https://doi.org/10.1145/3580880
+
 
 Code description:
 The PARROT tool has been developed and implemented using Eclipse Sirius (https://eclipse.dev/sirius/), a renowned platform known for its exceptional domain-specific modelling capabilities.
@@ -19,3 +38,6 @@ How to use the tool:
 Then the tool can be used to drag, drop and cngigure the privacy configuration. 
 
 More detailed about how to upload and test the metamodel:https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial
+
+
+
