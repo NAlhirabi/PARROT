@@ -2,7 +2,7 @@
 PARROT: Interactive Privacy-Aware Internet of Things Application Design Tool
 LICENSE: Creative Commons Attribution-NonCommercial 4.0 International License
 
-Objective:
+**Objective:**
 The objective of this tool is to simplify the creation of privacy-aware IoT applications for developers. It provides a simple interface that allows dragging and dropping of objects, referred to as "nodes," from a diverse palette containing sensors, clouds, and other relevant components.
 
 Related papers to the current tool:
