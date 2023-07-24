@@ -9,7 +9,10 @@ Code description:
 The PARROT tool has been developed and implemented using Eclipse Sirius (https://eclipse.dev/sirius/), a renowned platform known for its exceptional domain-specific modelling capabilities.
 In the Sirius framework, the graphical representation of the domain-specific models in PARROT is made up of both declarative and imperative specifications. The declarative section focuses on defining the appearance and layout of the graphical elements, while the imperative section specifies their dynamic behaviours and interactions.
 
-To download the desktop version: https://eclipse.dev/sirius/download.html
+How to use the tool:
+1) Yo need to have Eclipse Sirius. To download the desktop version use: https://eclipse.dev/sirius/download.html
+2) Install Ecore tools. (If you are using Obeo Designer or Eclipse Modeling packages, Ecore Tools is already installed. Otherwise, you can find it here: [EcoreTools site ](https://eclipse.dev/ecoretools/)
+3) Uploading PARROT Metamodel. To import the project from an archive file into an existing project (file> Import> General> project from folder or Archive). Select the folder called PARROT2023. (for detailed instruction follow: Import the projects containing the sample Domain Model at https://wiki.eclipse.org/Sirius/Tutorials/StarterTutorial)
+4)
 
-To import the project from an archive file into an existing project (file> Import> General> project from folder or Archive). Select the folder called PARROT2023.
-To upload and test the metamodel:https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial
+More detailed about how to upload and test the metamodel:https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial
