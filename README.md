@@ -35,9 +35,9 @@ In the Sirius framework, the graphical representation of the domain-specific mod
 4) Launch a new runtime from your Eclipse. To launch a new eclipse application click on Run / Run Configurations and double click on Eclipse Application.
 5) After running the metamodel, new window will open. Install a sample model called PARROTDesign.zip using File> Import.
 
-Then the tool can be used to drag, drop and cngigure the privacy configuration. 
+Then, the tool can be used to drag, drop and apply the privacy configuration. 
 
-More detailed about how to upload and test the metamodel:https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial
+More detailed instructions about how to upload and test the metamodel:https://wiki.eclipse.org/Sirius/Tutorials/DomainModelTutorial
 
 
 
